@@ -1,10 +1,13 @@
+<!-- Gradient Banner -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=200&section=header&text=Harsh%20Dev&fontSize=40&fontColor=ffffff&animation=fadeIn" />
+</p>
+
 <div align="center">
 
-# 🤖 Harsh Dev
+### 🤖 AI Developer | Automation Builder | Backend Explorer
 
-### Building Intelligent Systems with Code
-
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=450&lines=AI+Developer;Automation+Builder;Backend+Explorer;Always+Learning" />
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Building+Intelligent+Systems;Creating+AI+Pipelines;Designing+Smart+Backends;Always+Learning+%F0%9F%9A%80" />
 
 </div>
 
@@ -12,9 +15,8 @@
 
 ## 🧠 About Me  
 
-I enjoy building AI-powered tools, automation systems, and backend logic that actually *do something useful*.  
-
-Still learning. Still experimenting. Always improving.
+I build AI-powered systems, automation pipelines, and backend tools that solve real problems.  
+Still experimenting. Still improving. Always building.
 
 ---
 
@@ -22,10 +24,10 @@ Still learning. Still experimenting. Always improving.
 
 <div align="center">
 
-![Python](https://img.shields.io/badge/Python-111827?style=for-the-badge&logo=python)
-![JavaScript](https://img.shields.io/badge/JavaScript-111827?style=for-the-badge&logo=javascript)
-![Git](https://img.shields.io/badge/Git-111827?style=for-the-badge&logo=git)
-![HuggingFace](https://img.shields.io/badge/HuggingFace-111827?style=for-the-badge&logo=huggingface)
+![Python](https://img.shields.io/badge/Python-0f2027?style=for-the-badge&logo=python)
+![JavaScript](https://img.shields.io/badge/JavaScript-0f2027?style=for-the-badge&logo=javascript)
+![Git](https://img.shields.io/badge/Git-0f2027?style=for-the-badge&logo=git)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-0f2027?style=for-the-badge&logo=huggingface)
 
 </div>
 
@@ -33,17 +35,10 @@ Still learning. Still experimenting. Always improving.
 
 ## 🚀 Featured Projects  
 
-### 🎬 AI Video Generation Pipeline  
-End-to-end automated system built with Python.
-
-### 🤖 SmartyBot  
-AI chatbot with backend logic deployed online.
-
-### 🧠 GestoNet  
-Neural network model for real-time gesture recognition.
-
-### 🎙 ORBIT  
-Voice-controlled personal assistant.
+🔹 **AI Video Generation Pipeline**  
+🔹 **SmartyBot – AI Chatbot**  
+🔹 **GestoNet – Gesture Recognition Model**  
+🔹 **ORBIT – Voice Assistant**  
 
 ---
 
@@ -58,12 +53,22 @@ Voice-controlled personal assistant.
 
 ---
 
+## 🐍 Contribution Graph  
+
+<div align="center">
+
+<img src="https://github.com/Harsh-Dev19/Harsh-Dev19/blob/output/github-contribution-grid-snake.svg" />
+
+</div>
+
+---
+
 ## 🎯 Currently Focused On  
 
-- Writing cleaner, scalable code  
-- Strengthening Data Structures  
-- Designing smarter AI systems  
-- Building projects that feel production-ready  
+- Scalable AI systems  
+- Clean backend architecture  
+- Production-ready automation  
+- Real-world AI applications  
 
 ---
 
@@ -72,3 +77,8 @@ Voice-controlled personal assistant.
 ### ✨ Building AI that is not just cool — but useful.
 
 </div>
+
+<!-- Footer Wave -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,100:0f2027&height=120&section=footer"/>
+</p>
