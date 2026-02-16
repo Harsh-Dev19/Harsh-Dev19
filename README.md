@@ -1,84 +1,81 @@
-<!-- Gradient Banner -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=200&section=header&text=Harsh%20Dev&fontSize=40&fontColor=ffffff&animation=fadeIn" />
-</p>
-
 <div align="center">
 
-### 🤖 AI Developer | Automation Builder | Backend Explorer
+# ⚫ Harsh Dev
 
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Building+Intelligent+Systems;Creating+AI+Pipelines;Designing+Smart+Backends;Always+Learning+%F0%9F%9A%80" />
+### 🧠 AI Developer | 🤖 Automation Engineer | 🖥 Backend Explorer
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=22&duration=3000&color=00F5FF&center=true&vCenter=true&width=500&lines=Designing+Intelligent+Systems;Building+Scalable+Backends;Automating+Everything;Learning+Relentlessly" />
 
 </div>
 
 ---
 
-## 🧠 About Me  
+## 🧠 About Me
 
-I build AI-powered systems, automation pipelines, and backend tools that solve real problems.  
-Still experimenting. Still improving. Always building.
+> I build AI-powered systems, automation pipelines, and backend tools that solve real-world problems.  
+>  
+> Still experimenting. Still improving. Always building.
+
+- ⚡ Love clean architecture  
+- 🤖 Obsessed with AI workflows  
+- 🔍 Exploring scalable systems  
+- 🚀 Focused on practical AI
 
 ---
 
-## ⚡ Tech Stack  
+## ⚙️ Tech Stack
 
 <div align="center">
 
-![Python](https://img.shields.io/badge/Python-0f2027?style=for-the-badge&logo=python)
-![JavaScript](https://img.shields.io/badge/JavaScript-0f2027?style=for-the-badge&logo=javascript)
-![Git](https://img.shields.io/badge/Git-0f2027?style=for-the-badge&logo=git)
-![HuggingFace](https://img.shields.io/badge/HuggingFace-0f2027?style=for-the-badge&logo=huggingface)
+![Python](https://img.shields.io/badge/Python-111111?style=for-the-badge&logo=python&logoColor=00F5FF)
+![JavaScript](https://img.shields.io/badge/JavaScript-111111?style=for-the-badge&logo=javascript&logoColor=00F5FF)
+![Git](https://img.shields.io/badge/Git-111111?style=for-the-badge&logo=git&logoColor=00F5FF)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-111111?style=for-the-badge&logo=huggingface&logoColor=00F5FF)
 
 </div>
 
 ---
 
-## 🚀 Featured Projects  
+## 🚀 Featured Projects
 
 🔹 **AI Video Generation Pipeline**  
 🔹 **SmartyBot – AI Chatbot**  
 🔹 **GestoNet – Gesture Recognition Model**  
-🔹 **ORBIT – Voice Assistant**  
+🔹 **ORBIT – Voice Assistant**
 
 ---
 
-## 📊 GitHub Analytics  
+## 📊 GitHub Stats
 
 <div align="center">
 
-<img height="160em" src="https://github-readme-stats.vercel.app/api?username=Harsh-Dev19&show_icons=true&theme=tokyonight&hide_border=true"/>
-<img height="160em" src="https://github-readme-streak-stats.herokuapp.com?user=Harsh-Dev19&theme=tokyonight&hide_border=true"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Harsh-Dev19&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00F5FF&icon_color=00F5FF&text_color=FFFFFF" />
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Harsh-Dev19&theme=radical&hide_border=true&background=0D1117&ring=00F5FF&fire=00F5FF&currStreakLabel=00F5FF" />
 
 </div>
 
 ---
 
-## 🐍 Contribution Graph  
+## 🧩 Current Focus
 
-<div align="center">
-
-<img src="https://github.com/Harsh-Dev19/Harsh-Dev19/blob/output/github-contribution-grid-snake.svg" />
-
-</div>
+- 🏗 Scalable AI systems  
+- 🧼 Clean backend architecture  
+- ⚙ Production-ready automation  
+- 🌍 Real-world AI applications  
 
 ---
 
-## 🎯 Currently Focused On  
+## 🌌 Philosophy
 
-- Scalable AI systems  
-- Clean backend architecture  
-- Production-ready automation  
-- Real-world AI applications  
+> “Build AI that is not just cool — but useful.”
 
 ---
 
 <div align="center">
 
-### ✨ Building AI that is not just cool — but useful.
+### ⚫ System Status: Online  
+### 🧠 Neural Core: Active  
+### 🚀 Learning Mode: Enabled  
 
 </div>
-
-<!-- Footer Wave -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,100:0f2027&height=120&section=footer"/>
-</p>
