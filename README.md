@@ -1,133 +1,126 @@
-<!-- ====== TOP GRADIENT BANNER ====== -->
+<!-- ===================== TOP NEURAL BANNER ===================== -->
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=200&text=Harsh%20Dev&fontSize=50&fontAlignY=35&color=0:0D1117,50:1A1B27,100:00F5FF&fontColor=ffffff&animation=fadeIn" />
-
-### AI Systems Engineer • Automation Architect • Backend Designer
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=22&duration=3000&pause=800&color=00F5FF&center=true&vCenter=true&width=700&lines=Designing+Intelligent+Systems;Engineering+Scalable+Backends;Automating+Workflows;Building+AI+That+Actually+Works" />
+<img src="https://capsule-render.vercel.app/api?type=rect&height=220&text=Harsh%20Dev&fontSize=52&fontAlign=50&fontAlignY=40&color=0:111111,50:1c1c1c,100:2a2a2a&fontColor=EAEAEA&animation=fadeIn" />
 
 </div>
 
 ---
 
-# 🧠 Who I Am
+<!-- ===================== SVG BRAIN ===================== -->
 
-I build intelligent systems that **solve real problems** — not just demos.
+<div align="center">
 
-My focus is combining:
+<svg width="160" height="160" viewBox="0 0 200 200" fill="none" xmlns="http://www.w3.org/2000/svg">
+<circle cx="100" cy="100" r="70" stroke="#888888" stroke-width="2"/>
+<circle cx="70" cy="80" r="6" fill="#AAAAAA"/>
+<circle cx="130" cy="80" r="6" fill="#AAAAAA"/>
+<circle cx="85" cy="115" r="6" fill="#AAAAAA"/>
+<circle cx="115" cy="115" r="6" fill="#AAAAAA"/>
+<line x1="70" y1="80" x2="130" y2="80" stroke="#777777" stroke-width="1"/>
+<line x1="85" y1="115" x2="115" y2="115" stroke="#777777" stroke-width="1"/>
+<line x1="70" y1="80" x2="85" y2="115" stroke="#777777" stroke-width="1"/>
+<line x1="130" y1="80" x2="115" y2="115" stroke="#777777" stroke-width="1"/>
+</svg>
 
-- AI models  
-- automation pipelines  
-- clean backend architecture  
-- production-ready systems  
-
-I believe software should be:
-> **Minimal in design. Powerful in logic. Scalable by default.**
+</div>
 
 ---
 
-# ⚡ Core Expertise
+# Artificial Intelligence • Automation • Backend Systems
+
+I design and engineer intelligent systems that solve real problems.
+
+Not experimental toys.  
+Not flashy demos.  
+Structured, scalable systems.
+
+---
+
+# Core Focus
+
+- AI Model Integration  
+- Backend Architecture  
+- Workflow Automation  
+- System Optimization  
+- Clean Code Design  
+
+---
+
+# Technical Stack
 
 ```txt
-Artificial Intelligence
-Automation Engineering
-Backend System Design
-API Architecture
-Model Integration
-Workflow Optimization
+Python
+FastAPI
+JavaScript
+Node.js
+Docker
+Git
+Hugging Face
+System Design
 ```
 
 ---
 
-# 🧰 Tech Arsenal
+# Selected Systems
+
+### AI Video Generation Pipeline
+Automated generation framework integrating models and backend services.
+
+### Conversational AI Engine
+Scalable chatbot architecture with context persistence.
+
+### Vision-Based Gesture Model
+Computer vision recognition system for real-time inputs.
+
+### Voice Assistant Infrastructure
+Speech recognition + automation response pipeline.
+
+---
+
+# GitHub Analytics
 
 <div align="center">
 
-![Python](https://img.shields.io/badge/Python-0D1117?style=for-the-badge&logo=python&logoColor=00F5FF)
-![JavaScript](https://img.shields.io/badge/JavaScript-0D1117?style=for-the-badge&logo=javascript&logoColor=00F5FF)
-![FastAPI](https://img.shields.io/badge/FastAPI-0D1117?style=for-the-badge&logo=fastapi&logoColor=00F5FF)
-![NodeJS](https://img.shields.io/badge/NodeJS-0D1117?style=for-the-badge&logo=node.js&logoColor=00F5FF)
-![Git](https://img.shields.io/badge/Git-0D1117?style=for-the-badge&logo=git&logoColor=00F5FF)
-![Docker](https://img.shields.io/badge/Docker-0D1117?style=for-the-badge&logo=docker&logoColor=00F5FF)
-![HuggingFace](https://img.shields.io/badge/HuggingFace-0D1117?style=for-the-badge&logo=huggingface&logoColor=00F5FF)
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Harsh-Dev19&show_icons=true&theme=github_dark&hide_border=true" />
+
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=Harsh-Dev19&theme=github-dark&hide_border=true" />
 
 </div>
 
 ---
 
-# 🚀 System Projects
-
-### 🔹 AI Video Generation Pipeline
-End-to-end automated generation workflow using AI models.
-
-### 🔹 SmartyBot – Conversational AI
-Context-aware chatbot with scalable backend logic.
-
-### 🔹 GestoNet – Vision Model
-Gesture recognition powered by computer vision.
-
-### 🔹 ORBIT – Voice Assistant
-Speech recognition + response engine integrated with automation.
-
----
-
-# 📊 Performance Metrics
+# Activity Graph
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Harsh-Dev19&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F5FF&icon_color=00F5FF&text_color=ffffff" />
-
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=Harsh-Dev19&theme=tokyonight&hide_border=true&background=0D1117&ring=00F5FF&fire=00F5FF&currStreakLabel=00F5FF" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Harsh-Dev19&theme=github-dark&hide_border=true" />
 
 </div>
 
 ---
 
-# 🧩 Contribution Graph
+# Engineering Philosophy
 
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Harsh-Dev19&bg_color=0D1117&color=00F5FF&line=00F5FF&point=FFFFFF&hide_border=true" />
-
-</div>
-
----
-
-# 🏗 Currently Engineering
-
-- Scalable AI infrastructures  
-- Clean modular backend systems  
-- Production-grade automation tools  
-- Applied real-world ML systems  
+> Build systems that scale.  
+> Design with clarity.  
+> Automate what repeats.  
+> Improve what exists.  
 
 ---
 
-# 🌌 Development Philosophy
+# Current Direction
 
-> Intelligence without structure is chaos.  
-> Automation without scalability is temporary.  
-> Code without clarity is debt.  
-
-I build systems that last.
-
----
-
-# 🔗 Connect
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=00F5FF)](#)
-[![Portfolio](https://img.shields.io/badge/Portfolio-0D1117?style=for-the-badge&logo=vercel&logoColor=00F5FF)](#)
-[![Email](https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=00F5FF)](#)
-
-</div>
+- Production-ready AI systems  
+- Scalable backend engineering  
+- Applied machine learning  
+- Clean modular architectures  
 
 ---
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:00F5FF,50:1A1B27,100:0D1117" />
+_Designed with intention. Built with logic._
 
 </div>
