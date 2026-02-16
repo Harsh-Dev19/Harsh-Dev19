@@ -8,21 +8,21 @@
 
 ---
 
-<!-- ===================== SVG BRAIN ===================== -->
+<!-- ===================== NEURAL NETWORK HEADER ===================== -->
 
 <div align="center">
 
-<svg width="160" height="160" viewBox="0 0 200 200" fill="none" xmlns="http://www.w3.org/2000/svg">
-<circle cx="100" cy="100" r="70" stroke="#888888" stroke-width="2"/>
-<circle cx="70" cy="80" r="6" fill="#AAAAAA"/>
-<circle cx="130" cy="80" r="6" fill="#AAAAAA"/>
-<circle cx="85" cy="115" r="6" fill="#AAAAAA"/>
-<circle cx="115" cy="115" r="6" fill="#AAAAAA"/>
-<line x1="70" y1="80" x2="130" y2="80" stroke="#777777" stroke-width="1"/>
-<line x1="85" y1="115" x2="115" y2="115" stroke="#777777" stroke-width="1"/>
-<line x1="70" y1="80" x2="85" y2="115" stroke="#777777" stroke-width="1"/>
-<line x1="130" y1="80" x2="115" y2="115" stroke="#777777" stroke-width="1"/>
-</svg>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&text=Harsh%20Dev&fontSize=50&fontAlignY=38&color=0:0f0f0f,50:1b1b1b,100:2a2a2a&fontColor=EAEAEA&animation=fadeIn" />
+
+</div>
+
+---
+
+<!-- ===================== ANIMATED AI BRAIN ===================== -->
+
+<div align="center">
+
+<img src="https://media.giphy.com/media/l0HlBO7eyXzSZkJri/giphy.gif" width="180"/>
 
 </div>
 
@@ -30,7 +30,7 @@
 
 # Artificial Intelligence • Automation • Backend Systems
 
-I design and engineer intelligent systems that solve real problems.
+Designing structured, scalable, real-world AI systems.
 
 Not experimental toys.  
 Not flashy demos.  
