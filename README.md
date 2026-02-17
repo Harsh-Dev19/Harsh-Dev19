@@ -1,126 +1,109 @@
-<!-- ===================== TOP NEURAL BANNER ===================== -->
+<!-- ===================== HEADER BANNER ===================== -->
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&height=220&text=Harsh%20Dev&fontSize=52&fontAlign=50&fontAlignY=40&color=0:111111,50:1c1c1c,100:2a2a2a&fontColor=EAEAEA&animation=fadeIn" />
+<img src="https://capsule-render.vercel.app/api?type=wave&height=180&text=Harsh%20Dev&fontSize=50&fontAlignY=35&color=0:0f0f0f,50:1e1e1e,100:2b2b2b&fontColor=FFFFFF" />
 
 </div>
 
 ---
 
-<!-- ===================== NEURAL NETWORK HEADER ===================== -->
+# 👋 Hi, I'm Harsh
+
+### AI Systems ● Automation ● Backend Development
+
+I build structured and scalable systems that solve real problems using code.  
+Focused on clean logic, real workflows, and meaningful outcomes.
+
+---
+
+## 🔎 About Me
+
+- 🧠 Building intelligent AI tools  
+- ⚙️ Automating systems and workflows  
+- 🕸 Backend logic & API integration  
+- 📈 Constantly improving fundamentals  
+- 💡 Turning learning into working systems
+
+---
+
+## 💻 Tech Stack
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=220&text=Harsh%20Dev&fontSize=50&fontAlignY=38&color=0:0f0f0f,50:1b1b1b,100:2a2a2a&fontColor=EAEAEA&animation=fadeIn" />
+![Python](https://img.shields.io/badge/Python-111827?style=for-the-badge&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-111827?style=for-the-badge&logo=fastapi&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-111827?style=for-the-badge&logo=node.js&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-111827?style=for-the-badge&logo=javascript&logoColor=white)
+![Git](https://img.shields.io/badge/Git-111827?style=for-the-badge&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-111827?style=for-the-badge&logo=docker&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-111827?style=for-the-badge&logo=huggingface&logoColor=white)
 
 </div>
 
 ---
 
-<!-- ===================== ANIMATED AI BRAIN ===================== -->
+## 🚀 Featured Projects
+
+### 🔹 AI Video Generation Pipeline  
+Automated AI workflow with backend logic — script to output.
+
+### 🔹 SmartyBot – Conversational AI  
+AI Chatbot built with Python backend and context management.
+
+### 🔹 GestoNet – Gesture Recognition  
+Vision-based CNN-powered gesture classification.
+
+### 🔹 ORBIT – Voice Assistant  
+Speech recognition + automation response engine.
+
+---
+
+## 📊 GitHub Data
 
 <div align="center">
 
-<img src="https://media.giphy.com/media/l0HlBO7eyXzSZkJri/giphy.gif" width="180"/>
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=Harsh-Dev19&show_icons=true&theme=github_dark&hide_border=true" />
+
+<img height="160" src="https://github-readme-streak-stats.herokuapp.com/?user=Harsh-Dev19&theme=github-dark&hide_border=true" />
 
 </div>
 
 ---
 
-# Artificial Intelligence • Automation • Backend Systems
-
-Designing structured, scalable, real-world AI systems.
-
-Not experimental toys.  
-Not flashy demos.  
-Structured, scalable systems.
-
----
-
-# Core Focus
-
-- AI Model Integration  
-- Backend Architecture  
-- Workflow Automation  
-- System Optimization  
-- Clean Code Design  
-
----
-
-# Technical Stack
-
-```txt
-Python
-FastAPI
-JavaScript
-Node.js
-Docker
-Git
-Hugging Face
-System Design
-```
-
----
-
-# Selected Systems
-
-### AI Video Generation Pipeline
-Automated generation framework integrating models and backend services.
-
-### Conversational AI Engine
-Scalable chatbot architecture with context persistence.
-
-### Vision-Based Gesture Model
-Computer vision recognition system for real-time inputs.
-
-### Voice Assistant Infrastructure
-Speech recognition + automation response pipeline.
-
----
-
-# GitHub Analytics
+## 📈 Activity
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Harsh-Dev19&show_icons=true&theme=github_dark&hide_border=true" />
-
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=Harsh-Dev19&theme=github-dark&hide_border=true" />
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Harsh-Dev19&theme=github-dark&hide_border=true)
 
 </div>
 
 ---
 
-# Activity Graph
+## 🎯 Focus Areas
+
+- Scalable backend systems  
+- Production-ready AI tools  
+- Real-world automation  
+- Clean architectural design  
+
+---
+
+## 📬 Let’s Connect
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Harsh-Dev19&theme=github-dark&hide_border=true" />
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-111827?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com)  
+[![Portfolio](https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=vercel&logoColor=white)](https://yourportfolio.com)  
+[![Email](https://img.shields.io/badge/Email-111827?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@example.com)
 
 </div>
 
 ---
 
-# Engineering Philosophy
-
-> Build systems that scale.  
-> Design with clarity.  
-> Automate what repeats.  
-> Improve what exists.  
-
----
-
-# Current Direction
-
-- Production-ready AI systems  
-- Scalable backend engineering  
-- Applied machine learning  
-- Clean modular architectures  
-
----
-
 <div align="center">
 
-_Designed with intention. Built with logic._
+_Design with clarity. Build with intent._
 
 </div>
