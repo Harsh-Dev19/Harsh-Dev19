@@ -1,104 +1,147 @@
-<!-- ===================== HEADER BANNER ===================== -->
+<!-- ================= HEADER ================= -->
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=wave&height=180&text=Harsh%20Dev&fontSize=50&fontAlignY=35&color=0:0f0f0f,50:1e1e1e,100:2b2b2b&fontColor=FFFFFF" />
+<img src="https://capsule-render.vercel.app/api?type=rect&height=200&text=Harsh%20Dev&fontSize=48&fontAlign=50&fontAlignY=40&color=0:0f0f0f,50:1a1a1a,100:242424&fontColor=EAEAEA&animation=fadeIn" />
+
+### Artificial Intelligence • Automation • Backend Systems
 
 </div>
 
 ---
 
-# 👋 Hi, I'm Harsh
+<p align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%" />
+</p>
 
-### AI Systems ● Automation ● Backend Development
+# 👋 About Me
 
-I build structured and scalable systems that solve real problems using code.  
-Focused on clean logic, real workflows, and meaningful outcomes.
+I design and build structured, scalable systems powered by AI.
+
+Focused on:
+- Intelligent automation
+- Clean backend architecture
+- Real-world AI integrations
+- Production-ready workflows
+
+I care about clarity, maintainability, and systems that actually scale.
 
 ---
 
-## 🔎 About Me
+<p align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%" />
+</p>
 
-- 🧠 Building intelligent AI tools  
-- ⚙️ Automating systems and workflows  
-- 🕸 Backend logic & API integration  
-- 📈 Constantly improving fundamentals  
-- 💡 Turning learning into working systems
-
----
-
-## 💻 Tech Stack
+# ⚙️ Tech Stack
 
 <div align="center">
 
-![Python](https://img.shields.io/badge/Python-111827?style=for-the-badge&logo=python&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-111827?style=for-the-badge&logo=fastapi&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-111827?style=for-the-badge&logo=node.js&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-111827?style=for-the-badge&logo=javascript&logoColor=white)
-![Git](https://img.shields.io/badge/Git-111827?style=for-the-badge&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-111827?style=for-the-badge&logo=docker&logoColor=white)
-![HuggingFace](https://img.shields.io/badge/HuggingFace-111827?style=for-the-badge&logo=huggingface&logoColor=white)
+![Python](https://img.shields.io/badge/Python-111111?style=for-the-badge&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-111111?style=for-the-badge&logo=fastapi&logoColor=white)
+![NodeJS](https://img.shields.io/badge/NodeJS-111111?style=for-the-badge&logo=node.js&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-111111?style=for-the-badge&logo=javascript&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-111111?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-111111?style=for-the-badge&logo=git&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-111111?style=for-the-badge&logo=huggingface&logoColor=white)
 
 </div>
 
 ---
 
-## 🚀 Featured Projects
+<p align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%" />
+</p>
 
-### 🔹 AI Video Generation Pipeline  
-Automated AI workflow with backend logic — script to output.
+# 🚀 Featured Projects
 
-### 🔹 SmartyBot – Conversational AI  
-AI Chatbot built with Python backend and context management.
+<table>
+<tr>
+<td width="50%">
 
-### 🔹 GestoNet – Gesture Recognition  
-Vision-based CNN-powered gesture classification.
+### 🎬 AI Video Generation Pipeline  
+End-to-end AI automation workflow integrating models and backend services.
 
-### 🔹 ORBIT – Voice Assistant  
-Speech recognition + automation response engine.
+• Python backend  
+• Model orchestration  
+• Automated content pipeline  
+
+</td>
+
+<td width="50%">
+
+### 🤖 SmartyBot  
+Conversational AI system with scalable backend logic.
+
+• Context handling  
+• Hosted deployment  
+• Continuous backend runtime  
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+### 🧠 GestoNet  
+Computer vision model for real-time gesture recognition.
+
+• CNN architecture  
+• Vision processing pipeline  
+• Real-time inference  
+
+</td>
+
+<td width="50%">
+
+### 🎙 ORBIT  
+Voice-controlled assistant with automation integration.
+
+• Speech recognition  
+• Command processing  
+• Backend automation  
+
+</td>
+</tr>
+</table>
 
 ---
 
-## 📊 GitHub Data
+<p align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%" />
+</p>
+
+# 📊 GitHub Analytics
 
 <div align="center">
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=Harsh-Dev19&show_icons=true&theme=github_dark&hide_border=true" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=Harsh-Dev19&show_icons=true&theme=github_dark&hide_border=true" />
 
-<img height="160" src="https://github-readme-streak-stats.herokuapp.com/?user=Harsh-Dev19&theme=github-dark&hide_border=true" />
+<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=Harsh-Dev19&theme=github-dark&hide_border=true" />
 
 </div>
 
 ---
 
-## 📈 Activity
+# 📈 Activity Graph
 
 <div align="center">
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Harsh-Dev19&theme=github-dark&hide_border=true)
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Harsh-Dev19&theme=github-dark&hide_border=true" />
 
 </div>
 
 ---
 
-## 🎯 Focus Areas
+<p align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%" />
+</p>
 
-- Scalable backend systems  
-- Production-ready AI tools  
-- Real-world automation  
-- Clean architectural design  
+# 🎯 Current Direction
 
----
-
-## 📬 Let’s Connect
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-111827?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com)  
-[![Portfolio](https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=vercel&logoColor=white)](https://yourportfolio.com)  
-[![Email](https://img.shields.io/badge/Email-111827?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@example.com)
-
-</div>
+- Scalable AI infrastructure  
+- Clean modular backend systems  
+- Production-ready automation  
+- Applied machine learning  
 
 ---
 
