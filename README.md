@@ -161,17 +161,17 @@ src="https://streak-stats.demolab.com/?user=Harsh-Dev19&theme=dark&hide_border=t
 width="75%"
 />
 
-<br><br>
+<br></br>
 
  CONTRIBUTION ACTIVITY
 
 <img
-src="https://ghchart.rshah.org/9FE3C1/Harsh-Dev19"
+src="https://github-readme-activity-graph.vercel.app/graph?username=Harsh-Dev19&bg_color=0D0D0D&color=E8E8E8&line=9FE3C1&point=C77D8A&area=true&hide_border=true"
 width="95%"
 alt="GitHub Contribution Activity"
 />
 
-<br><br>
+<br></br>
 
 <a href="https://github.com/Harsh-Dev19">
 <img
