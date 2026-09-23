@@ -82,70 +82,47 @@ inside a single technology.
 ---
 
  ◈ TECHNOLOGY
-
 <div align="center">
 
- LANGUAGES
+LANGUAGES
 
-<span style="color:#9FE3C1">Python</span>
-&nbsp; · &nbsp;
-<span style="color:#C77D8A">C++</span>
-&nbsp; · &nbsp;
-<span style="color:#9FE3C1">JavaScript</span>
-&nbsp; · &nbsp;
-<span style="color:#C77D8A">Dart</span>
-&nbsp; · &nbsp;
-<span style="color:#9FE3C1">HTML</span>
-&nbsp; · &nbsp;
-<span style="color:#C77D8A">CSS</span>
+<img src="https://img.shields.io/badge/Python-0B3D2E?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/C%2B%2B-641C2A?style=for-the-badge&logo=cplusplus&logoColor=white"/>
+<img src="https://img.shields.io/badge/Dart-0B3D2E?style=for-the-badge&logo=dart&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-641C2A?style=for-the-badge&logo=javascript&logoColor=white"/>
+<img src="https://img.shields.io/badge/HTML5-0B3D2E?style=for-the-badge&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/CSS3-641C2A?style=for-the-badge&logo=css3&logoColor=white"/><br><br>
 
-<br>
+AI / MACHINE LEARNING
 
- AI / ML
+<img src="https://img.shields.io/badge/Machine%20Learning-0B3D2E?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Computer%20Vision-641C2A?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Audio%20AI-0B3D2E?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Generative%20AI-641C2A?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/LLM%20APIs-0B3D2E?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Hugging%20Face-641C2A?style=for-the-badge&logo=huggingface&logoColor=white"/><br><br>
 
-<span style="color:#9FE3C1">Machine Learning</span>
-&nbsp; · &nbsp;
-<span style="color:#C77D8A">Neural Networks</span>
-&nbsp; · &nbsp;
-<span style="color:#9FE3C1">Computer Vision</span>
-&nbsp; · &nbsp;
-<span style="color:#C77D8A">Generative AI</span>
-&nbsp; · &nbsp;
-<span style="color:#9FE3C1">AI APIs</span>
+DEVELOPMENT
 
-<br>
+<img src="https://img.shields.io/badge/Flutter-641C2A?style=for-the-badge&logo=flutter&logoColor=white"/>
+<img src="https://img.shields.io/badge/FastAPI-0B3D2E?style=for-the-badge&logo=fastapi&logoColor=white"/>
+<img src="https://img.shields.io/badge/Git-641C2A?style=for-the-badge&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-0B3D2E?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/Chrome%20Extensions-641C2A?style=for-the-badge&logo=googlechrome&logoColor=white"/><br><br
 
- DEVELOPMENT
+HARDWARE / IOT
 
-<span style="color:#9FE3C1">Flutter</span>
-&nbsp; · &nbsp;
-<span style="color:#C77D8A">FastAPI</span>
-&nbsp; · &nbsp;
-<span style="color:#9FE3C1">REST APIs</span>
-&nbsp; · &nbsp;
-<span style="color:#C77D8A">Firebase</span>
-&nbsp; · &nbsp;
-<span style="color:#9FE3C1">Git</span>
-&nbsp; · &nbsp;
-<span style="color:#C77D8A">GitHub</span>
-
-<br>
-
- TOOLS
-
-<span style="color:#9FE3C1">VS Code</span>
-&nbsp; · &nbsp;
-<span style="color:#C77D8A">Arduino</span>
-&nbsp; · &nbsp;
-<span style="color:#9FE3C1">Android Studio</span>
-&nbsp; · &nbsp;
-<span style="color:#C77D8A">Python Ecosystem</span>
+<img src="https://img.shields.io/badge/ESP32-0B3D2E?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Arduino-641C2A?style=for-the-badge&logo=arduino&logoColor=white"/>
+<img src="https://img.shields.io/badge/IoT-0B3D2E?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Sensors-641C2A?style=for-the-badge"/>
 
 </div>
 
 ---
 
  ◈ THE BUILD CYCLE
+
 
 <div align="center">
 
