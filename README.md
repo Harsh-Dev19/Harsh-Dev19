@@ -59,23 +59,33 @@ inside a single technology.
 
 <div align="center">
 
-<img src="assests/projects/orbit.svg" width="90%" />
+<a href="https://github.com/Harsh-Dev19/ORBIT">
+  <img src="assets/projects/orbit.svg" width="90%" />
+</a>
 
 <br><br>
 
-<img src="assests/projects/gestonet.svg" width="90%" />
+<a href="https://github.com/Harsh-Dev19/GestoNet">
+  <img src="assests/projects/gestonet.svg" width="90%" />
+</a>
 
 <br><br>
 
-<img src="assests/projects/smartybot.svg" width="90%" />
+<a href="https://github.com/Harsh-Dev19/SmartyBot">
+  <img src="assests/projects/smartybot.svg" width="90%" />
+</a>
 
 <br><br>
 
-<img src="assests/projects/citytycoon.svg" width="90%" />
+<a href="https://github.com/Harsh-Dev19/CityTycoon">
+  <img src="assests/projects/citytycoon.svg" width="90%" />
+</a>
 
 <br><br>
 
-<img src="assests/projects/ai-video-pipeline.svg" width="90%" />
+<a href="https://github.com/Harsh-Dev19/ai-video-generation-pipeline">
+  <img src="assests/projects/ai-video-pipeline.svg" width="90%" />
+</a>
 
 </div>
 
