@@ -60,7 +60,7 @@ inside a single technology.
 <div align="center">
 
 <a href="https://github.com/Harsh-Dev19/ORBIT">
-  <img src="assets/projects/orbit.svg" width="90%" />
+  <img src="assests/projects/orbit.svg" width="90%" />
 </a>
 
 <br><br>
