@@ -147,21 +147,40 @@ That's where most of my learning happens.
 <div align="center">
 
 <img
-src="https://github-readme-stats.vercel.app/api?username=Harsh-Dev19&show_icons=true&hide_border=true&bg_color=0D0D0D&title_color=9FE3C1&icon_color=C77D8A&text_color=E8E8E8"
-height="170"
-/>
-
-<img
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=Harsh-Dev19&layout=compact&hide_border=true&bg_color=0D0D0D&title_color=9FE3C1&text_color=E8E8E8"
-height="170"
+src="https://streak-stats.demolab.com/?user=Harsh-Dev19&theme=dark&hide_border=true&background=0D0D0D&ring=9FE3C1&fire=C77D8A&currStreakLabel=9FE3C1&currStreakNum=FFFFFF&sideLabels=E8E8E8&sideNums=FFFFFF&dates=777777"
+width="75%"
 />
 
 <br><br>
 
+ CONTRIBUTION ACTIVITY
+
 <img
-src="https://streak-stats.demolab.com?user=Harsh-Dev19&hide_border=true&background=0D0D0D&ring=9FE3C1&fire=C77D8A&currStreakLabel=E8E8E8&sideLabels=E8E8E8&dates=777777"
-width="70%"
+src="https://github-readme-activity-graph.vercel.app/graph?username=Harsh-Dev19&bg_color=0D0D0D&color=E8E8E8&line=9FE3C1&point=C77D8A&area=true&hide_border=true"
+width="95%"
 />
+
+<br><br>
+
+<a href="https://github.com/Harsh-Dev19">
+
+<img
+src="https://img.shields.io/github/followers/Harsh-Dev19?style=for-the-badge&logo=github&label=FOLLOWERS&color=171717"
+alt="GitHub Followers"
+/>
+
+</a>
+
+&nbsp;
+
+<a href="https://github.com/Harsh-Dev19?tab=repositories">
+
+<img
+src="https://img.shields.io/badge/VIEW%20ALL%20REPOSITORIES-171717?style=for-the-badge&logo=github&logoColor=white"
+alt="View Repositories"
+/>
+
+</a>
 
 </div>
 
@@ -178,6 +197,6 @@ width="70%"
 
 <br><br>
 
-**Harsh Dev**
+*Harsh Dev*
 
 </div>
