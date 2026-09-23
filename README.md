@@ -85,28 +85,47 @@ inside a single technology.
 
 <div align="center">
 
- LANGUAGES
-
-`Python` · `C++` · `JavaScript` · `Dart` · `HTML` · `CSS`
-
-<br>
-
- AI / ML
-
-`Machine Learning` · `Neural Networks` · `Computer Vision`
-· `Generative AI` · `AI APIs`
-
-<br>
-
- DEVELOPMENT
-
-`Flutter` · `FastAPI` · `REST APIs` · `Git` · `GitHub`
+ <span style="color:#9FE3C1">PYTHON</span>
+&nbsp; · &nbsp;
+<span style="color:#C77D8A">C++</span>
+&nbsp; · &nbsp;
+<span style="color:#9FE3C1">JAVASCRIPT</span>
+&nbsp; · &nbsp;
+<span style="color:#C77D8A">DART</span>
+&nbsp; · &nbsp;
+<span style="color:#9FE3C1">HTML</span>
+&nbsp; · &nbsp;
+<span style="color:#C77D8A">CSS</span>
 
 <br>
 
- TOOLS
+ <span style="color:#C77D8A">MACHINE LEARNING</span>
+&nbsp; · &nbsp;
+<span style="color:#9FE3C1">NEURAL NETWORKS</span>
+&nbsp; · &nbsp;
+<span style="color:#C77D8A">COMPUTER VISION</span>
+&nbsp; · &nbsp;
+<span style="color:#9FE3C1">GENERATIVE AI</span>
 
-`VS Code` · `Arduino` · `Firebase` · `Android Studio`
+<br>
+
+ <span style="color:#9FE3C1">FLUTTER</span>
+&nbsp; · &nbsp;
+<span style="color:#C77D8A">FASTAPI</span>
+&nbsp; · &nbsp;
+<span style="color:#9FE3C1">REST APIs</span>
+&nbsp; · &nbsp;
+<span style="color:#C77D8A">FIREBASE</span>
+
+<br>
+
+ <span style="color:#C77D8A">GIT</span>
+&nbsp; · &nbsp;
+<span style="color:#9FE3C1">GITHUB</span>
+&nbsp; · &nbsp;
+<span style="color:#C77D8A">ARDUINO</span>
+&nbsp; · &nbsp;
+<span style="color:#9FE3C1">ANDROID STUDIO</span>
 
 </div>
 
@@ -163,23 +182,19 @@ width="95%"
 <br><br>
 
 <a href="https://github.com/Harsh-Dev19">
-
 <img
 src="https://img.shields.io/github/followers/Harsh-Dev19?style=for-the-badge&logo=github&label=FOLLOWERS&color=171717"
 alt="GitHub Followers"
 />
-
 </a>
 
 &nbsp;
 
 <a href="https://github.com/Harsh-Dev19?tab=repositories">
-
 <img
 src="https://img.shields.io/badge/VIEW%20ALL%20REPOSITORIES-171717?style=for-the-badge&logo=github&logoColor=white"
 alt="View Repositories"
 />
-
 </a>
 
 </div>
