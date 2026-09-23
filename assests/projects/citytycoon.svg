@@ -1,0 +1,48 @@
+<svg width="1200" height="430" viewBox="0 0 1200 430" xmlns="http://www.w3.org/2000/svg">
+<defs>
+  <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="0%">
+    <stop offset="0%" stop-color="#0b1713"/>
+    <stop offset="38%" stop-color="#101313"/>
+    <stop offset="67%" stop-color="#170f12"/>
+    <stop offset="100%" stop-color="#260d16"/>
+  </linearGradient>
+  <radialGradient id="eg" cx="18%" cy="50%" r="55%">
+    <stop offset="0%" stop-color="#2f9b72" stop-opacity="0.34"/>
+    <stop offset="100%" stop-color="#2f9b72" stop-opacity="0"/>
+  </radialGradient>
+  <radialGradient id="rg" cx="88%" cy="50%" r="55%">
+    <stop offset="0%" stop-color="#a83f5c" stop-opacity="0.30"/>
+    <stop offset="100%" stop-color="#a83f5c" stop-opacity="0"/>
+  </radialGradient>
+  <linearGradient id="border" x1="0%" y1="0%" x2="100%" y2="0%">
+    <stop offset="0%" stop-color="#4da986"/>
+    <stop offset="50%" stop-color="#6b625f"/>
+    <stop offset="100%" stop-color="#a84a63"/>
+  </linearGradient>
+  <filter id="glow"><feGaussianBlur stdDeviation="14"/></filter>
+</defs>
+
+<rect x="8" y="8" width="1184" height="414" rx="24" fill="#090b0b"/>
+<rect x="8" y="8" width="1184" height="414" rx="24" fill="url(#bg)"/>
+<rect x="8" y="8" width="1184" height="414" rx="24" fill="url(#eg)"/>
+<rect x="8" y="8" width="1184" height="414" rx="24" fill="url(#rg)"/>
+<ellipse cx="165" cy="215" rx="190" ry="145" fill="#35a47b" opacity="0.10" filter="url(#glow)"/>
+<ellipse cx="1035" cy="215" rx="190" ry="145" fill="#b33d5d" opacity="0.09" filter="url(#glow)"/>
+<rect x="8" y="8" width="1184" height="414" rx="24" fill="none" stroke="url(#border)" stroke-width="1.5" opacity="0.75"/>
+
+<path d="M78 350 H1122" stroke="url(#border)" stroke-width="1" opacity="0.35"/>
+<path d="M78 82 H300" stroke="#4da986" stroke-width="1" opacity="0.35"/>
+<path d="M900 82 H1122" stroke="#a84a63" stroke-width="1" opacity="0.35"/>
+
+<circle cx="92" cy="108" r="7" fill="none" stroke="#72c19d" stroke-width="1.5"/>
+<circle cx="92" cy="108" r="2" fill="#72c19d"/>
+
+<text x="125" y="115" fill="#9fe3c1" font-family="Arial, Helvetica, sans-serif" font-size="16" letter-spacing="5">PUBLIC BUILD / 04</text>
+
+<text x="78" y="205" fill="#f1eee9" font-family="Georgia, 'Times New Roman', serif" font-size="64" font-weight="700" letter-spacing="2">CITYTYCOON</text>
+
+<text x="80" y="250" fill="#d7d3cf" font-family="Arial, Helvetica, sans-serif" font-size="22">City Building Simulation</text>
+<text x="80" y="292" fill="#aaa5a2" font-family="Arial, Helvetica, sans-serif" font-size="16">A browser-based simulation game where players</text>
+<text x="80" y="317" fill="#aaa5a2" font-family="Arial, Helvetica, sans-serif" font-size="16">build and develop their own virtual city.</text>
+
+<g font-family="Arial, Helvetica, sans-serif" font-size="14">
