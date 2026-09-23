@@ -85,13 +85,15 @@ inside a single technology.
 
 <div align="center">
 
- <span style="color:#9FE3C1">PYTHON</span>
+ LANGUAGES
+
+<span style="color:#9FE3C1">Python</span>
 &nbsp; · &nbsp;
 <span style="color:#C77D8A">C++</span>
 &nbsp; · &nbsp;
-<span style="color:#9FE3C1">JAVASCRIPT</span>
+<span style="color:#9FE3C1">JavaScript</span>
 &nbsp; · &nbsp;
-<span style="color:#C77D8A">DART</span>
+<span style="color:#C77D8A">Dart</span>
 &nbsp; · &nbsp;
 <span style="color:#9FE3C1">HTML</span>
 &nbsp; · &nbsp;
@@ -99,33 +101,45 @@ inside a single technology.
 
 <br>
 
- <span style="color:#C77D8A">MACHINE LEARNING</span>
+ AI / ML
+
+<span style="color:#9FE3C1">Machine Learning</span>
 &nbsp; · &nbsp;
-<span style="color:#9FE3C1">NEURAL NETWORKS</span>
+<span style="color:#C77D8A">Neural Networks</span>
 &nbsp; · &nbsp;
-<span style="color:#C77D8A">COMPUTER VISION</span>
+<span style="color:#9FE3C1">Computer Vision</span>
 &nbsp; · &nbsp;
-<span style="color:#9FE3C1">GENERATIVE AI</span>
+<span style="color:#C77D8A">Generative AI</span>
+&nbsp; · &nbsp;
+<span style="color:#9FE3C1">AI APIs</span>
 
 <br>
 
- <span style="color:#9FE3C1">FLUTTER</span>
+ DEVELOPMENT
+
+<span style="color:#9FE3C1">Flutter</span>
 &nbsp; · &nbsp;
-<span style="color:#C77D8A">FASTAPI</span>
+<span style="color:#C77D8A">FastAPI</span>
 &nbsp; · &nbsp;
 <span style="color:#9FE3C1">REST APIs</span>
 &nbsp; · &nbsp;
-<span style="color:#C77D8A">FIREBASE</span>
+<span style="color:#C77D8A">Firebase</span>
+&nbsp; · &nbsp;
+<span style="color:#9FE3C1">Git</span>
+&nbsp; · &nbsp;
+<span style="color:#C77D8A">GitHub</span>
 
 <br>
 
- <span style="color:#C77D8A">GIT</span>
+ TOOLS
+
+<span style="color:#9FE3C1">VS Code</span>
 &nbsp; · &nbsp;
-<span style="color:#9FE3C1">GITHUB</span>
+<span style="color:#C77D8A">Arduino</span>
 &nbsp; · &nbsp;
-<span style="color:#C77D8A">ARDUINO</span>
+<span style="color:#9FE3C1">Android Studio</span>
 &nbsp; · &nbsp;
-<span style="color:#9FE3C1">ANDROID STUDIO</span>
+<span style="color:#C77D8A">Python Ecosystem</span>
 
 </div>
 
