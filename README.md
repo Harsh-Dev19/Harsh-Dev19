@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/hero.png" width="100%" />
+<img src="assests/me.png" width="100%" />
 
 <br><br>
 
@@ -26,7 +26,7 @@ fixing them, and turning rough concepts into working systems.
 
 <div align="center">
 
-<img src="assets/journey.png" width="100%" />
+<img src="assests/journey.png" width="100%" />
 
 </div>
 
@@ -59,23 +59,23 @@ inside a single technology.
 
 <div align="center">
 
-<img src="assets/projects/orbit.svg" width="90%" />
+<img src="assests/projects/orbit.svg" width="90%" />
 
 <br><br>
 
-<img src="assets/projects/gestonet.svg" width="90%" />
+<img src="assests/projects/gestonet.svg" width="90%" />
 
 <br><br>
 
-<img src="assets/projects/smartybot.svg" width="90%" />
+<img src="assests/projects/smartybot.svg" width="90%" />
 
 <br><br>
 
-<img src="assets/projects/citytycoon.svg" width="90%" />
+<img src="assests/projects/citytycoon.svg" width="90%" />
 
 <br><br>
 
-<img src="assets/projects/ai-video-pipeline.svg" width="90%" />
+<img src="assests/projects/ai-video-pipeline.svg" width="90%" />
 
 </div>
 
