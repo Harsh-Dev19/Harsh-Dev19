@@ -167,13 +167,24 @@ That's where most of my learning happens.
 <div align="center">
 
 <img
-src="https://streak-stats.demolab.com/?user=Harsh-Dev19&theme=dark&hide_border=true&background=0D0D0D&ring=9FE3C1&fire=C77D8A&currStreakLabel=9FE3C1&currStreakNum=FFFFFF&sideLabels=E8E8E8&sideNums=FFFFFF&dates=777777"
+src="https://github-readme-stats.vercel.app/api?username=Harsh-Dev19&show_icons=true&hide_border=true&bg_color=0D0D0D&title_color=9FE3C1&text_color=E8E8E8&icon_color=C77D8A&include_all_commits=true&count_private=true"
 width="75%"
+alt="GitHub Statistics"
 />
 
-<br></br>
+<br><br>
+
+<img
+src="https://streak-stats.demolab.com/?user=Harsh-Dev19&theme=dark&hide_border=true&background=0D0D0D&ring=9FE3C1&fire=C77D8A&currStreakLabel=9FE3C1&currStreakNum=FFFFFF&sideLabels=E8E8E8&sideNums=FFFFFF&dates=777777"
+width="75%"
+alt="GitHub Contribution Streak"
+/>
+
+<br><br>
 
  CONTRIBUTION ACTIVITY
+
+<br>
 
 <img
 src="https://ghchart.xqsit94.in/dark:10b981/Harsh-Dev19"
@@ -181,7 +192,7 @@ width="95%"
 alt="GitHub Contribution Activity"
 />
 
-<br></br>
+<br><br>
 
 <a href="https://github.com/Harsh-Dev19">
 <img
